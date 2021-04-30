@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title></title>
+		</head>
+	<body>
+		<div class="container">
+			<div class="header">
+				<p class="img1">
+					<img src="img/signal.png">
+					COMPANY
+					<img src="img/wifi.png">
+					<p class="time">02:18</p>
+					<img src="img/battery-status.png" class="batt">
+				</p>
+			</div>
+			<div class="header_2">
+				<div class="left">
+					<img src="img/left.png">
+					<p class="name">astrosverhrazum</p>
+					<p class="klas">...</p>
+				</div>
+			</div>
+			<div class="main">
+				<div class="grey_line"></div>
+				<div class="circl"></div>
+					<p class="text1">39</p>
+					<p class="text2">2.001</p>
+					<p class="text3">4.000</p>
+				<div class="main2">
+					<p class="text4">posts</p>
+					<p class="text5">folowers</p>
+					<p class="text6">folowing</p>
+				</div>
+				<div class="blu1">Follow</div>
+				<div class="blu2"> 
+					<img src="img/down.png" class="qqq">
+				</div>
+				<div class="xx1">
+					<p class="x1">Nice Chel</p>
+					<p class="x2">I like LGBT+</p>
+					<p class="x3">Femenist</p>
+					<p class="x4">Genyi</p>
+				</div>
+					
+			</div>
+			<div class="circls">
+						<div class="circl1">
+							<p class="kek1">IQTV</p>
+						</div>
+						<div class="circl2">
+							<p class="kek2">food</p>
+						</div>
+						<div class="circl3">
+							<p class="kek3">travel</p>
+						</div>
+						<div class="circl4">
+							<p class="kek4">lifestyle</p>
+						</div>
+						<div class="circl5">
+							<p class="kek5">theand</p>
+						</div>
+			</div>
+			<div class="prukol_img">
+				<div class="grey_line"></div>
+
+				<div class="all_img1">
+					<img src="img/grid.png">
+				</div>
+				<div class="all_img2">
+					<img src="img/grid.png">
+				</div>
+				<div class="all_img2">
+					<img src="img/grid.png">
+				</div>
+
+				<div class="all_img2">
+					<img src="img/grid.png">
+				</div>
+				<div class="all_img2">
+					<img src="img/grid.png">
+				</div>
+			</div>
+			<div class="posts">
+				<div class="black"></div>
+				<div class="black"></div>
+				<div class="black"></div>
+				<div class="black2"></div>
+				<div class="black2"></div>
+				<div class="black2"></div>
+			</div>
+			<div class="header">
+				<div>
+					<img src="img/home.png" class="home">
+				</div>
+				<div>
+					<img src="img/loupe.png" class="loupe">
+				</div>
+				<div>
+					<img src="img/plus-sign.png" class="loupe">
+				</div>
+				<div>
+					<img src="img/heart.png" class="loupe">
+				</div>
+				<div>
+					<img src="img/user.png" class="loupe">
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
